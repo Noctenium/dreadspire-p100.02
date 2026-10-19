@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Area id="885" continentId="9885" areaName="IllusionTower_SD_P" worldMapWorldId="9999" worldMapGuardId="22" nameId="9885001" duel="false" pk="false" trade="false" vender="false" desTex="false" recallReviveContinentId="7012" recallRevivePos="-9347.3975,-69221.4375,2698" recallScrollContinentId="7012" recallScrollPos="-9347.3975,-69221.4375,2686.9817" recallReviveContinentIdA="0" recallRevivePosA="" recallScrollContinentIdA="0" recallScrollPosA="" recallReviveContinentIdB="0" recallRevivePosB="" recallScrollContinentIdB="0" recallScrollPosB="" recallReviveContinentIdC="0" recallRevivePosC="" recallScrollContinentIdC="0" recallScrollPosC="" protect="false" ride="false" pcMoveCylinder="true">
+	<Section id="4" desc="환영의 탑" ignoreObstacleShortTel="false" worldMapSectionId="9885" nameId="9885001" huntingZoneId="-1" duel="false" pk="false" trade="true" vender="false" desTex="false" recallReviveContinentId="7012" recallRevivePos="-9347.3975,-69221.4375,2698" recallScrollContinentId="7012" recallScrollPos="-9347.3975,-69221.4375,2686.9817" recallReviveContinentIdA="0" recallRevivePosA="" recallScrollContinentIdA="0" recallScrollPosA="" recallReviveContinentIdB="0" recallRevivePosB="" recallScrollContinentIdB="0" recallScrollPosB="" recallReviveContinentIdC="0" recallRevivePosC="" recallScrollContinentIdC="0" recallScrollPosC="" addMaxZ="500.000000" subtractMinZ="1000.000000" protect="false" priority="1" campId="9089" ride="false" pcMoveCylinder="true" enableItemId="" floor="1" restBonus="false" maze="false" disableItemId="1170">
+		<Fence pos="14862.8115,-130439.9141,-8973.6748"/>
+		<Fence pos="13615.9980,-130077.2188,-9342.7617"/>
+		<Fence pos="13246.2285,-129707.3281,-9353.6143"/>
+		<Fence pos="12846.6963,-129499.3828,-9352.8887"/>
+		<Fence pos="12212.3223,-129484.7500,-9350.9004"/>
+		<Fence pos="7046.2100,-129530.7578,-8571.4971"/>
+		<Fence pos="3013.7842,-129390.5000,-8166.9473"/>
+		<Fence pos="2284.9705,-129445.6641,-8438.0527"/>
+		<Fence pos="1625.5801,-130086.8281,-8479.3301"/>
+		<Fence pos="1566.4734,-131107.2031,-8226.1084"/>
+		<Fence pos="2186.6079,-131834.0781,-7986.4111"/>
+		<Fence pos="6636.8154,-131805.6563,-8865.7754"/>
+		<Fence pos="9248.4180,-131803.1875,-8970.5732"/>
+		<Fence pos="12102.6152,-131770.3125,-9143.3408"/>
+		<Fence pos="13063.7588,-131762.2969,-9129.9199"/>
+		<Fence pos="13733.5596,-131099.7656,-9189.6123"/>
+		<Fence pos="14897.0898,-130854.0078,-9263.6123"/>
+		<Fence pos="14985.6709,-130650.2891,-9342.4189"/>
+	</Section>
+</Area>

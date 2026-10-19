@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DynamicSpawnData huntingZoneId="885">
+	<DynamicSpawn id="1">
+		<SpawnInfo memberId="2" relativePos="0,800,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="800,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-800,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-800,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="2">
+		<SpawnInfo memberId="2" relativePos="560,560,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-560,560,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-560,-560,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="560,-560,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+    <DynamicSpawn id="3"> <!-- 5층 아카샤 졸개 5마리 때때로 소환하기 -->
+        <SpawnInfo memberId="5" relativePos="200,0,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+        <SpawnInfo memberId="5" relativePos="150,-150,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+        <SpawnInfo memberId="5" relativePos="150,150,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+        <SpawnInfo memberId="5" relativePos="-100,-100,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+        <SpawnInfo memberId="5" relativePos="-100,100,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="4">
+		<SpawnInfo memberId="2" relativePos="200,150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="200,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="200,-150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="5">
+		<SpawnInfo memberId="3" relativePos="200,150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="200,-150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="6">
+		<SpawnInfo memberId="4" relativePos="400,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="4" relativePos="0,400,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="4" relativePos="-400,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="4" relativePos="0,-400,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="7">
+		<SpawnInfo memberId="2" relativePos="90,0,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="120,45,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="120,-45,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="8">
+		<SpawnInfo memberId="3" relativePos="300,0,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="9">
+		<SpawnInfo memberId="3" relativePos="200,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="0,200,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="-200,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="0,-200,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="17"> <!-- 10층 툴사 걸어다니는 졸개 소환하기 -->
+		<SpawnInfo memberId="2" relativePos="0,100,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true" standardPos="target" dir="toTarget"/>
+	</DynamicSpawn>		
+	<DynamicSpawn id="18"> <!-- 10층 툴사 장판 까는 졸개 소환하기 -->
+		<SpawnInfo memberId="3" relativePos="0,25,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true" standardPos="target" dir="toTarget"/>
+	</DynamicSpawn>			
+	<DynamicSpawn id="19"> <!-- 10층 툴사 레이저 쏘는 졸개 소환하기 -->
+		<SpawnInfo memberId="4" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true" standardPos="target" dir="toTarget"/>
+	</DynamicSpawn>	
+	<DynamicSpawn id="20"> <!-- 10층 툴사 맹독충 졸개 소환하기 -->
+		<SpawnInfo memberId="5" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true" standardPos="target" dir="toTarget"/>
+	</DynamicSpawn>	
+
+	<DynamicSpawn id="101"> <!-- 1층 1마리 3번 스폰 패턴에서 첫 번째 스폰 -->
+		<SpawnInfo memberId="3" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="102">
+		<SpawnInfo memberId="2" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="103">
+		<SpawnInfo memberId="2" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="106"> <!-- 6층 1마리 3번 스폰 패턴에서 첫 번째 스폰 -->
+		<SpawnInfo memberId="4" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="107"> <!-- 7층 1마리 3번 스폰 패턴에서 첫 번째 스폰 -->
+		<SpawnInfo memberId="3" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="108"> <!-- 8층 1마리 3번 스폰 패턴에서 첫 번째 스폰 -->
+		<SpawnInfo memberId="3" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="161"> <!-- 16층 자폭병 소환 -->
+		<SpawnInfo memberId="2" relativePos="100,0,0" delay="0" despawnByCombatReset="false" despawnByOwnerDeath="true" extraAggro="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="162">
+		<SpawnInfo memberId="2" relativePos="0,0,0" delay="0" despawnByCombatReset="false" despawnByOwnerDeath="false" extraAggro="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="163">
+		<SpawnInfo memberId="4" relativePos="200,200,0" delay="0" despawnByCombatReset="false" despawnByOwnerDeath="false" extraAggro="true"/>
+		<SpawnInfo memberId="4" relativePos="-200,200,0" delay="0" despawnByCombatReset="false" despawnByOwnerDeath="false" extraAggro="true"/>
+		<SpawnInfo memberId="4" relativePos="200,-200,0" delay="0" despawnByCombatReset="false" despawnByOwnerDeath="false" extraAggro="true"/>
+		<SpawnInfo memberId="4" relativePos="-200,-200,0" delay="0" despawnByCombatReset="false" despawnByOwnerDeath="false" extraAggro="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="181"> <!-- 18층 쫄 소환 -->
+		<SpawnInfo memberId="3" relativePos="250,0,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true"/>
+		<SpawnInfo memberId="3" relativePos="250,75,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true"/>
+		<SpawnInfo memberId="3" relativePos="250,-75,0" delay="0" standardPos="target" dir="toTarget" extraAggro="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="201">
+		<SpawnInfo memberId="7" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="202">
+		<SpawnInfo memberId="6" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="203"> <!-- 3층 무적 스폰 -->
+		<SpawnInfo memberId="6" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="206"> <!-- 6층 무적 스폰 -->
+		<SpawnInfo memberId="8" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="207"> <!-- 7층 무적 스폰 -->
+		<SpawnInfo memberId="7" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="208"> <!-- 8층 무적 스폰 -->
+		<SpawnInfo memberId="7" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="301">
+		<SpawnInfo memberId="5" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="302"> <!-- 2층 방해꾼 소환 패턴 몬스터 스폰 -->
+		<SpawnInfo memberId="4" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="303">
+		<SpawnInfo memberId="4" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="306"> <!-- 6층 방해꾼 소환 패턴 몬스터 스폰 -->
+		<SpawnInfo memberId="6" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="307"> <!-- 7층 방해꾼 소환 패턴 몬스터 스폰 -->
+		<SpawnInfo memberId="5" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="308"> <!-- 8층 방해꾼 소환 패턴 몬스터 스폰 -->
+		<SpawnInfo memberId="5" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="401">
+		<SpawnInfo memberId="9" relativePos="150,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="402"> <!-- 2층 방해꾼 스폰 -->
+		<SpawnInfo memberId="2" relativePos="150,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="403">
+		<SpawnInfo memberId="8" relativePos="150,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="406"> <!-- 6층 방해꾼 스폰 -->
+		<SpawnInfo memberId="2" relativePos="150,150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-150,-150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="407"> <!-- 7층 방해꾼 스폰 -->
+		<SpawnInfo memberId="2" relativePos="150,150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-150,-150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="408"> <!-- 8층 방해꾼 스폰 -->
+		<SpawnInfo memberId="2" relativePos="150,150,0" delay="0"/>
+		<SpawnInfo memberId="2" relativePos="-150,-150,0" delay="0"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="501"> <!-- 1층 1마리 3번 스폰 패턴에서 두 번째 스폰 -->
+		<SpawnInfo memberId="11" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="502">
+		<SpawnInfo memberId="2" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="503">
+		<SpawnInfo memberId="2" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="506"> <!-- 6층 1마리 3번 스폰 패턴에서 두 번째 스폰 -->
+		<SpawnInfo memberId="12" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="507"> <!-- 7층 1마리 3번 스폰 패턴에서 두 번째 스폰 -->
+		<SpawnInfo memberId="10" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="508"> <!-- 8층 1마리 3번 스폰 패턴에서 두 번째 스폰 -->
+		<SpawnInfo memberId="10" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="601"> <!-- 1층 1마리 3번 스폰 패턴에서 세 번째 스폰 -->
+		<SpawnInfo memberId="13" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="602">
+		<SpawnInfo memberId="2" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="603">
+		<SpawnInfo memberId="2" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="606"> <!-- 6층 1마리 3번 스폰 패턴에서 세 번째 스폰 -->
+		<SpawnInfo memberId="14" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="607"> <!-- 7층 1마리 3번 스폰 패턴에서 세 번째 스폰 -->
+		<SpawnInfo memberId="11" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="608"> <!-- 8층 1마리 3번 스폰 패턴에서 세 번째 스폰 -->
+		<SpawnInfo memberId="11" relativePos="0,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="609">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="610">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="611">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="612">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="613">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="614">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="615">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="616">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="617">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="618">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="619">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="620">
+		<SpawnInfo memberId="5" relativePos="0,50,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="621">
+		<SpawnInfo memberId="5" relativePos="0,300,0" delay="600" despawnByCombatReset="true" despawnByOwnerDeath="true" standardPos="target" dir="toTarget"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="624"> <!-- 11층 스타트 비비슈 3총사가 처음에 쫄몹 소환하는 다이나믹 스폰 -->
+		<SpawnInfo memberId="2" relativePos="0,300,0" delay="0" dir="toTarget"/>
+		<SpawnInfo memberId="2" relativePos="0,-300,0" delay="0" dir="toTarget"/>
+		<SpawnInfo memberId="3" relativePos="300,0,0" delay="0" dir="toTarget"/>
+		<SpawnInfo memberId="3" relativePos="-300,0,0" delay="0" dir="toTarget"/>
+	</DynamicSpawn>	
+	<DynamicSpawn id="625"> <!-- 11층 스타트 비비슈 3총사가 두 번째부터 소환하는 다이나믹 스폰 -->
+		<SpawnInfo memberId="2" relativePos="0,300,0" delay="0" dir="toTarget"/>
+		<SpawnInfo memberId="3" relativePos="0,-300,0" delay="0" dir="toTarget"/>
+	</DynamicSpawn>	
+	<DynamicSpawn id="626"> <!-- 12층 비비슈가 타겟을 둘러쌓도록 벽 스폰 -->
+		<SpawnInfo memberId="3" standardPos="target" relativePos="50,50,0" dir="0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" standardPos="target" relativePos="50,-50,0" dir="90" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" standardPos="target" relativePos="-50,-50,0" dir="180" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" standardPos="target" relativePos="-50,50,0" dir="270" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="631"> <!-- 13층 맹독충 소환 -->
+		<SpawnInfo memberId="2" relativePos="0,150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="150,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="-150,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="632"> <!-- 13층 걸어다니는 좀비 소환 -->
+		<SpawnInfo memberId="3" relativePos="0,150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="0,-150,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="150,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="-150,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="633"> <!-- 13층 몬스터 소환장치 1마리씩 소환하는 다이나믹 스폰 -->
+		<SpawnInfo memberId="1" relativePos="0,50,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="634"> <!-- 13층 몬스터 소환장치 2마리씩 소환하는 다이나믹 스폰 -->
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="0,-50,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="635"> <!-- 13층 몬스터 소환장치 3마리씩 소환하는 다이나믹 스폰 -->
+		<SpawnInfo memberId="4" relativePos="0,50,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="5" relativePos="0,-50,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="6" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="636"> <!-- 13층 몬스터 소환장치 4마리씩 소환하는 다이나믹 스폰 -->
+		<SpawnInfo memberId="1" relativePos="0,50,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="3" relativePos="50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+		<SpawnInfo memberId="4" relativePos="-50,0,0" delay="0" despawnByCombatReset="true" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1901"> <!-- 촉수 소환 -->
+		<SpawnInfo territoryId="88500256" despawnByOwnerCombatReset="true" despawnByCombatReset="false" despawnByOwnerDeath="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1902"> <!-- 사념 전파체 소환 -->
+		<SpawnInfo memberId="3" relativePos="500,500,0" delay="0" despawnByOwnerCombatReset="true" despawnByCombatReset="false" despawnByOwnerDeath="true" extraAggro="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1903"> <!-- 15퍼센트 아래 사념전파체 소환 -->
+		<SpawnInfo memberId="5" relativePos="500,500,0" delay="0" despawnByOwnerCombatReset="true" despawnByCombatReset="false" despawnByOwnerDeath="true" extraAggro="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1904"> <!-- 촉수 자가 분열 -->
+		<SpawnInfo memberId="2" relativePos="375,375,0" delay="0"/>
+		<SpawnInfo memberId="2" relativePos="400,-250,0" delay="0"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1905"> <!-- 17층 빨강 파랑 1(양극) -->
+		<SpawnInfo territoryId="88500257" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1906"> <!-- 17층 빨강 파랑 2(양극) -->
+		<SpawnInfo territoryId="88500258" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1907"> <!-- 17층 빨강 파랑 3(양극) -->
+		<SpawnInfo territoryId="88500259" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1908"> <!-- 17층 빨강 파랑 4(양극) -->
+		<SpawnInfo territoryId="88500260" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1909"> <!-- 17층 빨강 파랑 5(양극) -->
+		<SpawnInfo territoryId="88500261" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1910"> <!-- 17층 빨강 파랑 6(양극) -->
+		<SpawnInfo territoryId="88500262" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1911"> <!-- 17층 빨강 파랑 7(양극) -->
+		<SpawnInfo territoryId="88500263" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1912"> <!-- 17층 빨강 파랑 8(양극) -->
+		<SpawnInfo territoryId="88500264" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1913"> <!-- 17층 빨강 파랑 9(양극) -->
+		<SpawnInfo territoryId="88500265" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1914"> <!-- 17층 빨강 파랑 10(양극) -->
+		<SpawnInfo territoryId="88500266" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1915"> <!-- 17층 빨강 파랑 11(양극) -->
+		<SpawnInfo territoryId="88500267" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1916"> <!-- 17층 빨강 파랑 12(양극) -->
+		<SpawnInfo territoryId="88500268" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1917"> <!-- 17층 빨강 파랑 1(음극) -->
+		<SpawnInfo territoryId="88500269" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1918"> <!-- 17층 빨강 파랑 2(음극) -->
+		<SpawnInfo territoryId="88500270" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1919"> <!-- 17층 빨강 파랑 3(음극) -->
+		<SpawnInfo territoryId="88500271" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1920"> <!-- 17층 빨강 파랑 4(음극) -->
+		<SpawnInfo territoryId="88500272" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1921"> <!-- 17층 빨강 파랑 5(음극) -->
+		<SpawnInfo territoryId="88500273" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1922"> <!-- 17층 빨강 파랑 6(음극) -->
+		<SpawnInfo territoryId="88500274" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1923">
+		<SpawnInfo memberId="2" relativePos="0,50,0" delay="600"/>
+		<SpawnInfo memberId="2" relativePos="0,-50,0" delay="300"/>
+		<SpawnInfo memberId="2" relativePos="50,0,0" delay="0"/>
+		<SpawnInfo memberId="2" relativePos="-50,0,0" delay="900"/>
+		<SpawnInfo memberId="2" relativePos="50,50,0" delay="1200"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1924"> <!-- 17층 빨강 파랑 7(음극) -->
+		<SpawnInfo territoryId="88500300" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1925"> <!-- 17층 빨강 파랑 8(음극) -->
+		<SpawnInfo territoryId="88500301" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1926"> <!-- 17층 빨강 파랑 9(음극) -->
+		<SpawnInfo territoryId="88500302" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1927"> <!-- 17층 빨강 파랑 10(음극) -->
+		<SpawnInfo territoryId="88500303" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1928"> <!-- 17층 빨강 파랑 11(음극) -->
+		<SpawnInfo territoryId="88500304" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="1929"> <!-- 17층 빨강 파랑 12(음극) -->
+		<SpawnInfo territoryId="88500305" despawnByCombatReset="true"/>
+	</DynamicSpawn>
+	<DynamicSpawn id="2001"> <!-- 샨드라 분신 소환용 -->
+		<SpawnInfo memberId="2" relativePos="300,0,0" delay="0"/>
+		<SpawnInfo memberId="3" relativePos="-350,-350,0" delay="0"/>
+		<SpawnInfo memberId="3" relativePos="-350,350,0" delay="0"/>
+	</DynamicSpawn>
+</DynamicSpawnData>

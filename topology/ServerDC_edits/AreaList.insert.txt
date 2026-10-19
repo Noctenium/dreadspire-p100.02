@@ -1,0 +1,17 @@
+﻿
+	<Continent id="9885" desc="인던_환영의 탑" originZoneX="1000" originZoneY="1000">
+		<Area name="IllusionTower_SD_P">
+			<Zones>
+				<Zone x="1000" y="991" />
+			</Zones>
+		</Area>
+	</Continent>
+
+	<Continent id="9886" desc="인던_환영의 탑(16층)" originZoneX="1000" originZoneY="1000">
+		<Area name="IllusionTower_SD_P">
+			<Zones>
+				<Zone x="1000" y="991" />
+			</Zones>
+		</Area>
+	</Continent>
+

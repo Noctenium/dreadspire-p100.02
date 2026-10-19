@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FormationData huntingZoneId="886">
+	<Formation id="1" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="2" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="3" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="4" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="5" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="6" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="7" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="8" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="9" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="10" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="11" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="12" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="13" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="14" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="15" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="16" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="17" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="18" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="19" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="20" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="21" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="22" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="23" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="24" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="25" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="26" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="27" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="28" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="29" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="30" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="31" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="32" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="33" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="34" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="35" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="36" posType="relativeToCommander" duration="10000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="-300,25,0" memberId="0"/>
+		<Slot pos="-300,50,0" memberId="0"/>
+		<Slot pos="-300,75,0" memberId="0"/>
+		<Slot pos="-300,90,0" memberId="0"/>
+		<Slot pos="-300,115,0" memberId="0"/>
+		<Slot pos="-300,-25,0" memberId="0"/>
+		<Slot pos="-300,-50,0" memberId="0"/>
+		<Slot pos="-300,-75,0" memberId="0"/>
+		<Slot pos="-300,-90,0" memberId="0"/>
+		<Slot pos="-300,-115,0" memberId="0"/>
+		<Slot pos="-350,25,0" memberId="0"/>
+		<Slot pos="-350,50,0" memberId="0"/>
+		<Slot pos="-350,75,0" memberId="0"/>
+		<Slot pos="-350,90,0" memberId="0"/>
+		<Slot pos="-350,115,0" memberId="0"/>
+		<Slot pos="-350,-25,0" memberId="0"/>
+		<Slot pos="-350,-50,0" memberId="0"/>
+		<Slot pos="-350,-75,0" memberId="0"/>
+		<Slot pos="-350,-90,0" memberId="0"/>
+		<Slot pos="-350,-115,0" memberId="0"/>
+		<Slot pos="-400,25,0" memberId="0"/>
+		<Slot pos="-400,50,0" memberId="0"/>
+		<Slot pos="-400,75,0" memberId="0"/>
+		<Slot pos="-400,90,0" memberId="0"/>
+		<Slot pos="-400,115,0" memberId="0"/>
+		<Slot pos="-400,-25,0" memberId="0"/>
+		<Slot pos="-400,-50,0" memberId="0"/>
+		<Slot pos="-400,-75,0" memberId="0"/>
+		<Slot pos="-400,-90,0" memberId="0"/>
+		<Slot pos="-400,-115,0" memberId="0"/>
+		<Slot pos="-450,25,0" memberId="0"/>
+		<Slot pos="-450,50,0" memberId="0"/>
+		<Slot pos="-450,75,0" memberId="0"/>
+		<Slot pos="-450,90,0" memberId="0"/>
+		<Slot pos="-450,115,0" memberId="0"/>
+		<Slot pos="-450,-25,0" memberId="0"/>
+		<Slot pos="-450,-50,0" memberId="0"/>
+		<Slot pos="-450,-75,0" memberId="0"/>
+		<Slot pos="-450,-90,0" memberId="0"/>
+		<Slot pos="-450,-115,0" memberId="0"/>
+	</Formation>
+	<Formation id="37" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="38" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="39" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="40" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="41" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+	<Formation id="42" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="43" posType="relativeToCommander" duration="4000" stopDistance="10" moveSpeedRate="1.200000" moveNoReaction="true">
+		<Slot pos="0,0,0" memberId="0"/>
+		<Slot pos="50,0,0" memberId="0"/>
+		<Slot pos="50,-50,0" memberId="0"/>
+		<Slot pos="50,50,0" memberId="0"/>
+		<Slot pos="50,100,0" memberId="0"/>
+		<Slot pos="50,-100,0" memberId="0"/>
+		<Slot pos="50,150,0" memberId="0"/>
+		<Slot pos="50,-150,0" memberId="0"/>
+		<Slot pos="50,200,0" memberId="0"/>
+		<Slot pos="50,-200,0" memberId="0"/>
+		<Slot pos="50,250,0" memberId="0"/>
+		<Slot pos="50,-250,0" memberId="0"/>
+		<Slot pos="50,300,0" memberId="0"/>
+		<Slot pos="50,-300,0" memberId="0"/>
+	</Formation>
+	<Formation id="44" posType="relativeToTarget" duration="4000" stopDistance="10" moveSpeedRate="1.500000" moveNoReaction="true">
+		<Slot pos="250,0,0" memberId="0"/>
+		<Slot pos="-250,0,0" memberId="1"/>
+	</Formation>
+</FormationData>

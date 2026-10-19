@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ActiveRotate huntingZoneId="886">
+	<ActiveRotate id="1">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="2">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="3">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+		<ActiveRotateElm type="right" rotateAngle="340" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="4">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="5">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="6">
+		<ActiveRotateElm type="left" rotateAngle="30" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="7">
+		<ActiveRotateElm type="right" rotateAngle="30" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="8">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="9">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="10">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="11">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="12">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="13">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="14">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="15">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="16">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="17">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="18">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="19">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="20">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="21">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="22">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="23">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="24">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="25">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="26">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="27">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="28">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="29">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="30">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="31">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="32">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="33">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="168">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="169">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="170">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="171">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="172">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="173">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="174">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="175">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="176">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="177">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="178">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="179">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="180">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="181">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="182">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="183">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="184">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="185">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="186">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="187">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="188">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="189">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="190">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="191">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="192">
+		<ActiveRotateElm type="right" rotateAngle="45" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="193">
+		<ActiveRotateElm type="right" rotateAngle="45" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="194">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="195">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="196">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="197">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="198">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="199">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="200">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="201">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="202">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="203">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="204">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="205">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="206">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="207">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="208">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="209">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="210">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="211">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="212">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="213">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="214">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="215">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="216">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="217">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="218">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="219">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="220">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="221">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="222">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="223">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="224">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="225">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="226">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="227">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="228">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="229">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="230">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="231">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="232">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="233">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="234">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="235">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="236">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="237">
+		<ActiveRotateElm type="left" rotateAngle="23" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="238">
+		<ActiveRotateElm type="right" rotateAngle="14" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="239">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="240">
+		<ActiveRotateElm type="toTarget" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="241">
+		<ActiveRotateElm type="toSpawnPos" rotateSpeed="90.000000"/>
+	</ActiveRotate>
+	<ActiveRotate id="242">
+		<ActiveRotateElm type="right" rotateAngle="170" rotateSpeed="120.000000"/>
+	</ActiveRotate>
+</ActiveRotate>

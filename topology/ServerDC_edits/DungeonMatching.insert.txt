@@ -1,0 +1,5 @@
+﻿
+	<Dungeon id="9885" name="Dreadspire (OLD)" dungeonLevel="65" dungeonMinLevel="65" dungeonMaxLevel="70" minItemLevel="409" matchingRoleId="17">
+		<DungeonClearCompensation itemTemplateId="411" itemAmount="1" />
+		<DungeonClearCompensation itemTemplateId="364" itemAmount="1" />
+	</Dungeon>

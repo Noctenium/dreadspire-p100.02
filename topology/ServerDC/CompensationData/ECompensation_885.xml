@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ECompensationData huntingZoneId="885">
+  <Compensation npcTemplateId="885055" npcName="4층의 보물상자">
+    <GoldBag probability="1" min="0" max="0" bagName="골드" />
+    <ItemBag id="1" bagName="중급 무기(획귀)" probability="1">
+      <Item templateId="95642" name="켈리반의 무기 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="1" bagName="중급 가슴(획귀)" probability="1">
+      <Item templateId="95643" name="켈리반의 갑옷 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="1" bagName="중급 장갑(획귀)" probability="1">
+      <Item templateId="97222" name="켈리반의 단단한 중갑 장갑" min="1" max="3" probability="0.091" />
+      <Item templateId="97223" name="켈리반의 흉포한 중갑 장갑" min="1" max="3" probability="0.273" />
+      <Item templateId="97224" name="켈리반의 단단한 경갑 장갑" min="1" max="3" probability="0.045" />
+      <Item templateId="97225" name="켈리반의 흉포한 경갑 장갑" min="1" max="3" probability="0.318" />
+      <Item templateId="97226" name="켈리반의 흉포한 글러브" min="1" max="3" probability="0.091" />
+      <Item templateId="97227" name="켈리나의 화려한 글러브" min="1" max="3" probability="0.182" />
+    </ItemBag>
+	  <ItemBag id="1" bagName="중급 신발(획귀)" probability="1">
+      <Item templateId="97228" name="켈리반의 중갑 신발" min="1" max="3" probability="0.35" />
+      <Item templateId="97229" name="켈리반의 경갑 신발" min="1" max="3" probability="0.35" />
+      <Item templateId="97230" name="켈리반의 슈즈" min="1" max="3" probability="0.3" />
+    </ItemBag>
+	<ItemBag id="1" bagName="중급 허리띠(획귀)" probability="1">
+      <Item templateId="97231" name="켈리반의 허리띠" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="(구)하급 반지 (획귀)" probability="2">
+      <Item templateId="97387" name="켈리반의 반지 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="(구)하급 귀걸이(획귀)" probability="2">
+      <Item templateId="97388" name="켈리반의 귀걸이 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="(구)목걸이 (획귀)" probability="2">
+      <Item templateId="97391" name="켈리반의 목걸이 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="(구)상급 반지 (획귀)" probability="1.2">
+      <Item templateId="97389" name="악인 켈리반의 반지 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="(구)상급 귀걸이(획귀)" probability="1.2">
+      <Item templateId="97390" name="악인 켈리반의 귀걸이 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="하급 브로치(획귀)" probability="1">
+      <Item templateId="97392" name="중급 날개 브로치 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="중급 강화석" probability="1">
+      <Item templateId="94108" name="강화석 8단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="중급 강화석" probability="1">
+      <Item templateId="94108" name="강화석 8단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="중급 강화석" probability="1">
+      <Item templateId="94108" name="강화석 8단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="중급 강화석" probability="1">
+      <Item templateId="94108" name="강화석 8단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="중급 강화석" probability="1">
+      <Item templateId="94108" name="강화석 8단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="(구)시즌 토큰 (균등분배)" probability="1">
+      <Item templateId="97312" name="원혼석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="중급 완태고" probability="1">
+      <Item templateId="908" name="완전한 태고의 재봉인 주문서 8단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="중급 완태고" probability="1">
+      <Item templateId="908" name="완전한 태고의 재봉인 주문서 8단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="중급 완태고" probability="1">
+      <Item templateId="908" name="완전한 태고의 재봉인 주문서 8단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="중급 완태고" probability="1">
+      <Item templateId="908" name="완전한 태고의 재봉인 주문서 8단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="중급 완태고" probability="1">
+      <Item templateId="908" name="완전한 태고의 재봉인 주문서 8단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="중급 보존의 가루" probability="1">
+      <Item templateId="808" name="보존의 가루 8단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="중급 보존의 가루" probability="1">
+      <Item templateId="808" name="보존의 가루 8단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="중급 보존의 가루" probability="1">
+      <Item templateId="808" name="보존의 가루 8단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="중급 보존의 가루" probability="1">
+      <Item templateId="808" name="보존의 가루 8단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="중급 보존의 가루" probability="1">
+      <Item templateId="808" name="보존의 가루 8단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="태고의 봉인 해제 주문서" probability="1">
+      <Item templateId="92" name="태고의 봉인 해제 주문서" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="태고의 봉인 해제 주문서" probability="1">
+      <Item templateId="92" name="태고의 봉인 해제 주문서" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="태고의 봉인 해제 주문서" probability="1">
+      <Item templateId="92" name="태고의 봉인 해제 주문서" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="태고의 봉인 해제 주문서" probability="1">
+      <Item templateId="92" name="태고의 봉인 해제 주문서" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="태고의 봉인 해제 주문서" probability="1">
+      <Item templateId="92" name="태고의 봉인 해제 주문서" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="10" bagName="대박 보상" probability="0.004">
+      <Item templateId="368" name="다이아몬드" min="10" max="10" probability="1" />
+    </ItemBag>
+  </Compensation>
+  
+  <Compensation npcTemplateId="885056" npcName="9층의 보물상자">
+    <GoldBag probability="1" min="0" max="0" bagName="골드" />
+	<ItemBag id="1" bagName="상급 무기(획귀)" probability="0.8">
+      <Item templateId="95645" name="베르노의 무기 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="1" bagName="상급 가슴(획귀)" probability="0.4">
+      <Item templateId="95646" name="베르노의 갑옷 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="1" bagName="상급 장갑(획귀)" probability="0.4">
+      <Item templateId="88025" name="베르노의 중갑 장갑" min="1" max="3" probability="0.3333" />
+      <Item templateId="88026" name="베르노의 경갑 장갑" min="1" max="3" probability="0.3333" />
+      <Item templateId="88027" name="베르노의 글러브" min="1" max="3" probability="0.3334" />
+   </ItemBag>
+	  <ItemBag id="1" bagName="상급 신발(획귀)" probability="0.8">
+      <Item templateId="88028" name="베르노의 중갑 신발" min="1" max="3" probability="0.3333" />
+      <Item templateId="88029" name="베르노의 경갑 신발" min="1" max="3" probability="0.3333" />
+      <Item templateId="88030" name="베르노의 슈즈" min="1" max="3" probability="0.3334" />
+    </ItemBag>
+	<ItemBag id="1" bagName="상급 허리띠(획귀)" probability="0.8">
+      <Item templateId="88031" name="베르노의 허리띠" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="하급 반지 (획귀)" probability="0.5">
+      <Item templateId="51004" name="듀리온의 반지 :치명" min="1" max="3" probability="0.5" />
+	  <Item templateId="51009" name="듀리온의 반지 :힘" min="1" max="3" probability="0.5" />
+    </ItemBag>
+	<ItemBag id="2" bagName="하급 귀걸이 (획귀)" probability="0.8">
+      <Item templateId="51002" name="듀리온의 귀걸이 :치명" min="1" max="3" probability="0.5" />
+	  <Item templateId="51007" name="듀리온의 귀걸이 :힘" min="1" max="3" probability="0.5" />
+    </ItemBag>
+	<ItemBag id="2" bagName="목걸이 (획귀)" probability="0.5">
+      <Item templateId="51001" name="듀리온의 목걸이 :치명" min="1" max="3" probability="0.5" />
+	  <Item templateId="51006" name="듀리온의 목걸이 :힘" min="1" max="3" probability="0.5" />
+    </ItemBag>
+	<ItemBag id="2" bagName="희귀등급_정화의 토템(획귀)" probability="0.48">
+      <Item templateId="19734" name="희귀_정화의 토템" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.8">
+      <Item templateId="94109" name="강화석 9단계" min="6" max="6" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.8">
+      <Item templateId="94109" name="강화석 9단계" min="6" max="6" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.8">
+      <Item templateId="94109" name="강화석 9단계" min="6" max="6" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.8">
+      <Item templateId="94109" name="강화석 9단계" min="6" max="6" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.8">
+      <Item templateId="94109" name="강화석 9단계" min="6" max="6" probability="1" />
+    </ItemBag>
+	<ItemBag id="4" bagName="각인서 재료" probability="0.08">
+      <Item templateId="6393" name="심해의 파편" min="2" max="4" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="크리스탈 상자" probability="0.8">
+      <Item templateId="96405" name="크리스탈 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="0.8">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="최상급 장비 재료 상자 (균등분배)" probability="0.4">
+      <Item templateId="97711" name="실험실 귀중품 상자" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.8">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.8">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.8">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.8">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.8">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.8">
+      <Item templateId="566" name="오르피우스의 메달" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.8">
+      <Item templateId="566" name="오르피우스의 메달" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.8">
+      <Item templateId="566" name="오르피우스의 메달" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.8">
+      <Item templateId="566" name="오르피우스의 메달" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.8">
+      <Item templateId="566" name="오르피우스의 메달" min="2" max="2" probability="1" />
+    </ItemBag>
+    <ItemBag id="10" bagName="대박 보상" probability="0.0144">
+      <Item templateId="368" name="다이아몬드" min="10" max="10" probability="1" />
+    </ItemBag>
+  </Compensation>
+  <Compensation npcTemplateId="885057" npcName="14층의 보물상자">
+    <GoldBag probability="1" min="0" max="0" bagName="골드" />
+	<ItemBag id="2" bagName="상급 반지 (획귀)" probability="0.2">
+      <Item templateId="51005" name="폭군 듀리온의 반지 :치명" min="1" max="3" probability="0.5" />
+	  <Item templateId="51010" name="폭군 듀리온의 반지 :힘" min="1" max="3" probability="0.5" />
+    </ItemBag>
+	<ItemBag id="2" bagName="상급 귀걸이 (획귀)" probability="0.2">
+      <Item templateId="51003" name="폭군 듀리온의 귀걸이 :치명" min="1" max="3" probability="0.5" />
+	  <Item templateId="51008" name="폭군 듀리온의 귀걸이 :힘" min="1" max="3" probability="0.5" />
+    </ItemBag>
+	<ItemBag id="2" bagName="전설등급_정화의 토템(획귀)" probability="0.14">
+      <Item templateId="19735" name="정화의 토템" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.6667">
+      <Item templateId="94109" name="강화석 9단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.6667">
+      <Item templateId="94109" name="강화석 9단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.6667">
+      <Item templateId="94109" name="강화석 9단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.6667">
+      <Item templateId="94109" name="강화석 9단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="상급 강화석" probability="0.6667">
+      <Item templateId="94109" name="강화석 9단계" min="8" max="8" probability="1" />
+    </ItemBag>
+	<ItemBag id="4" bagName="각인서 재료" probability="0.1333">
+      <Item templateId="6393" name="심해의 파편" min="2" max="4" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="아티팩트 원석" probability="0.1333">
+      <Item templateId="96207" name="아티팩트 원석 VII" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="최상급 장비 재료 상자 (균등분배)" probability="0.3333">
+      <Item templateId="97710" name="듀리온의 보물상자" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="0.6667">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="0.6667">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.6667">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.6667">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.6667">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.6667">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="6" bagName="상급 완태고" probability="0.6667">
+      <Item templateId="909" name="완전한 태고의 재봉인 주문서 9단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.6667">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.6667">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.6667">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.6667">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="0.6667">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="10" bagName="대박 보상" probability="0.0172">
+      <Item templateId="368" name="다이아몬드" min="10" max="10" probability="1" />
+    </ItemBag>
+  </Compensation>
+  <Compensation npcTemplateId="88514" npcName="켈사이크">
+    <ItemBag id="1" bagName=" 16층 입장권" probability="0.5" mustDrop="true">
+      <Item templateId="83306" name="환영의 탑 입장권 - 16층 (시즌3)" min="1" max="3" probability="1" />
+    </ItemBag>
+  </Compensation>
+</ECompensationData>

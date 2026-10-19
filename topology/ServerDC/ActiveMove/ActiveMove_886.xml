@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ActiveMoveTemplate huntingZoneId="886">
+	<ActiveMove id="1" type="0" pos="18088.4121,-146004.9375,-8671.3066" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="20" type="2" pos="0.0000,0.0000,0.0000" distance="200.000000" randomRange="50.000000" skillId="1150"/>
+	<ActiveMove id="21" type="2" pos="0.0000,0.0000,0.0000" distance="200.000000" randomRange="50.000000" skillId="2150"/>
+	<ActiveMove id="200" type="2" pos="0.0000,0.0000,0.0000" distance="368.500000" randomRange="126.500000" skillId="2150"/>
+	<ActiveMove id="300" type="0" pos="18085,-146012,-8671" skillId="1150" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="2" type="0" pos="27963.6582,-146010.5313,-9326.5781" skillId="0" distance="0.000000" randomRange="750.000000"/>
+	<ActiveMove id="301" type="1" pos="-300,0,0" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="302" type="3" distance="200" randomRange="10" skillId="0"/>
+	<ActiveMove id="303" type="1" pos="-300,0,0" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="304" type="3" distance="200" randomRange="10" skillId="0"/>
+	<ActiveMove id="305" type="1" pos="-300,0,0" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="306" type="3" distance="200" randomRange="10" skillId="0"/>
+	<ActiveMove id="307" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="308" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="309" type="1" pos="-300.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="310" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="311" type="1" pos="0.0000,100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="312" type="1" pos="0.0000,-100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="313" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="314" type="1" pos="-300.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="315" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="316" type="1" pos="-300.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="317" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="0" randomRange="10.000000"/>
+	<ActiveMove id="100" type="0" pos="27947.3008,-146010.2656,-9326.5791" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="103" type="0" pos="27947.3008,-146285.2031,-9326.5840" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="106" type="0" pos="28207.9727,-146010.2656,-9326.5781" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="109" type="0" pos="27947.3008,-145660.6563,-9326.5791" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="112" type="0" pos="27608.5977,-146010.2656,-9326.5898" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="400" type="0" pos="18083.4121,-146005.7656,-8671.3154" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="403" type="0" pos="18083.4121,-146296.7656,-8671.3223" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="406" type="0" pos="18365.6172,-146005.7656,-8671.3086" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="409" type="0" pos="18083.4121,-145728.6719,-8671.3076" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="412" type="0" pos="17805.1133,-146005.7656,-8671.3086" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="413" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="414" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="415" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="416" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="417" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="418" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="419" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="420" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="421" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="422" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="423" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="424" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="425" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="426" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="427" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="428" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="429" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="430" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="431" type="1" pos="-300.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="432" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="433" type="1" pos="0.1016,-0.4063,0.0000" skillId="0" distance="0.000000" randomRange="800.000000"/>
+	<ActiveMove id="434" type="1" pos="-300.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="435" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="436" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="437" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="438" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="439" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="440" type="3" distance="200.000000" randomRange="10.000000" skillId="0"/>
+	<ActiveMove id="441" type="1" pos="0,100,0" skillId="0"/>
+	<ActiveMove id="442" type="1" pos="0,-100,0" skillId="0"/>
+	<ActiveMove id="443" type="3" distance="200.000000" randomRange="10.000000" skillId="0"/>
+	<ActiveMove id="500" type="0" pos="3606.4583,-130661.6250,-8670.3125" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="501" type="0" pos="2734.1760,-131446.0000,-8670.3252" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="502" type="0" pos="3606.4583,-130661.6250,-8670.3125" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="503" type="0" pos="2746.1909,-129780.2109,-8670.3125" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="1000" type="0" pos="12582.1582,-130643.3594,-9326.5889" skillId="0" distance="0.000000" randomRange="1000.000000"/>
+	<ActiveMove id="2000" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="750.000000"/>
+	<ActiveMove id="3000" type="0" pos="6498.0527,-130652.5391,-8971.3340" skillId="0" distance="0.000000" randomRange="750.000000"/>
+	<ActiveMove id="4000" type="0" pos="2723.5293,-130654.4297,-8671.3096" skillId="0" distance="0.000000" randomRange="800.000000"/>
+	<ActiveMove id="4001" type="0" pos="2723.5293,-130654.4297,-8671.3096" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4002" type="1" pos="-300,0,0" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4003" type="3" distance="200" randomRange="10" skillId="0"/>
+	<ActiveMove id="4004" type="1" pos="-300,0,0" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4005" type="3" distance="200" randomRange="10" skillId="0"/>
+	<ActiveMove id="4006" type="1" pos="-300,0,0" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4007" type="3" distance="200" randomRange="10" skillId="0"/>
+	<ActiveMove id="4008" type="1" pos="-300.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4009" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="4010" type="1" pos="0.0000,100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4011" type="1" pos="0.0000,-100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4012" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="4013" type="0" pos="-87088.7578,-19899.5859,1616.1304" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4014" type="1" pos="-300.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4015" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="4016" type="1" pos="0.0000,100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4017" type="1" pos="0.0000,-100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4018" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="350.000000" randomRange="0.000000"/>
+	<ActiveMove id="4019" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="4020" type="1" pos="0.0000,100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4021" type="1" pos="0.0000,-100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4022" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="4023" type="0" pos="55234.6289,-58975.8242,4231.5684" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4024" type="5" pos="0.0000,0.0000,0.0000" skillId="1150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4025" type="5" pos="0.0000,0.0000,0.0000" skillId="2150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4026" type="5" pos="0.0000,0.0000,0.0000" skillId="1150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4027" type="5" pos="0.0000,0.0000,0.0000" skillId="2150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4028" type="1" pos="350.0000,0.0000,0.0000" skillId="1150" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4029" type="1" pos="350.0000,0.0000,0.0000" skillId="2150" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4030" type="1" pos="-400.0000,0.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4031" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="4032" type="5" pos="0.0000,0.0000,0.0000" skillId="1150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4033" type="5" pos="0.0000,0.0000,0.0000" skillId="2150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4034" type="1" pos="350.0000,0.0000,0.0000" skillId="1150" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4035" type="1" pos="350.0000,0.0000,0.0000" skillId="2150" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="600" type="1" pos="450.0000,0.0000,0.0000" skillId="1150" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="601" type="0" pos="6498.0527,-130652.5391,-8971.3340" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="1901" type="1" pos="0.0000,100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4036" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4037" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4038" type="5" pos="0.0000,0.0000,0.0000" skillId="1150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4039" type="5" pos="0.0000,0.0000,0.0000" skillId="2150" distance="200.000000" randomRange="0.000000"/>
+	<ActiveMove id="4040" type="1" pos="450.0000,0.0000,0.0000" skillId="1150" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4041" type="1" pos="450.0000,0.0000,0.0000" skillId="2150" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4042" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="1150" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4043" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="2150" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4044" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4045" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4046" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4047" type="1" pos="0.0000,100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4048" type="1" pos="0.0000,-100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4049" type="1" pos="-300,0,0" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4050" type="3" distance="200" randomRange="10" skillId="0"/>
+	<ActiveMove id="4051" type="3" pos="0.0000,0.0000,0.0000" skillId="0" distance="200.000000" randomRange="10.000000"/>
+	<ActiveMove id="4052" type="1" pos="0.0000,100.0000,0.0000" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4053" type="0" pos="2723.5293,-130654.4297,-8671.3096" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4054" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4055" type="0" pos="9522.3867,-130653.9922,-9150.3389" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="60" type="0" pos="2723.5293,-130654.4297,-8671.3096" skillId="0" distance="0.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4056" type="5" pos="0.0000,0.0000,0.0000" skillId="1150" distance="200.000000" randomRange="0.000000" noCancelByAggroChange="true"/>
+	<ActiveMove id="4057" type="0" pos="-101296.3516,186285.8594,352.1656" skillId="0" distance="0.000000" randomRange="0.000000"/>
+	<ActiveMove id="4058" type="0" pos="2743.52929688,-130634.42968750,-8671.30859375" skillId="0" distance="0.000000" randomRange="0.000000"/>
+</ActiveMoveTemplate>

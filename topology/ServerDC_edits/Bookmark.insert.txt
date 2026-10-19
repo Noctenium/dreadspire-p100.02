@@ -1,0 +1,5 @@
+﻿
+	<Bookmark name="88501" desc="환영의 탑 1구간" pos="13366,-130657,-9325" continent="9885" />
+	<Bookmark name="88502" desc="환영의 탑 2구간" pos="10314,-130657,-9149" continent="9885" />
+	<Bookmark name="88503" desc="환영의 탑 3구간" pos="7282,-130653,-8970" continent="9885" />
+	<Bookmark name="88504" desc="환영의 탑 4구간" pos="3510,-130653,-8670" continent="9885" />

@@ -1,0 +1,1045 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ECompensationData huntingZoneId="886">
+  <Compensation npcTemplateId="8851611" npcName="16층의 보물상자">
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="10" max="10" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="2" max="2" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="2" max="2" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="2" max="2" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="2" max="2" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="0.1">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="3" max="3" probability="1" />
+    </ItemBag>
+  </Compensation>
+  
+  <Compensation npcTemplateId="8851711" npcName="17층의 보물상자">
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="15" max="15" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="4" max="4" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="4" max="4" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="4" max="4" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="4" max="4" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="4" max="4" probability="1" />
+    </ItemBag>
+  	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="5" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="0.2">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="5" max="5" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="5" max="5" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="5" max="5" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="5" max="5" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="5" max="5" probability="1" />
+    </ItemBag>
+  </Compensation>
+  
+  <Compensation npcTemplateId="8851811" npcName="18층의 보물상자">
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="20" max="20" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="20" max="20" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="20" max="20" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="20" max="20" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="20" max="20" probability="1" />
+    </ItemBag>
+    
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="6" max="6" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="6" max="6" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="6" max="6" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="6" max="6" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="6" max="6" probability="1" />
+    </ItemBag>
+   <ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="0.2">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="10" max="10" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="10" max="10" probability="1" />
+    </ItemBag>
+  </Compensation>
+  
+  <Compensation npcTemplateId="8851911" npcName="19층의 보물상자">
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="25" max="25" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="25" max="25" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="25" max="25" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="25" max="25" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="25" max="25" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="8" max="8" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="8" max="8" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="8" max="8" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="8" max="8" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="아티팩트 조각" probability="1">
+      <Item templateId="149183" name="아티팩트 조각" min="8" max="8" probability="1" />
+    </ItemBag>
+    <ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="1">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="15" max="15" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="15" max="15" probability="1" />
+    </ItemBag>
+  </Compensation>
+  
+  <Compensation npcTemplateId="886011" npcName="20층의 보물상자">
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="30" max="30" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="30" max="30" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="30" max="30" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="30" max="30" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="30" max="30" probability="1" />
+    </ItemBag>
+	
+    <ItemBag id="2" bagName="스킬 교본(탈 것)" probability="1">
+      <Item templateId="98250" name="스킬 교본: 바하르의 사자 소환" min="1" max="3" probability="1" />
+    </ItemBag>
+	
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="1">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="0.55">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="20" max="20" probability="1" />
+    </ItemBag>	
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="20" max="20" probability="1" />
+    </ItemBag>	
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="20" max="20" probability="1" />
+    </ItemBag>	
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="20" max="20" probability="1" />
+    </ItemBag>	
+	<ItemBag id="7" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="20" max="20" probability="1" />
+    </ItemBag>	
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="1" max="3" probability="1" />
+    </ItemBag>
+	
+  </Compensation>
+  <Compensation npcTemplateId="886022" npcName="21층의 보물상자">
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="40" max="40" probability="1" />
+    </ItemBag>
+    <ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="3" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="1">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="7" bagName="보석" probability="0.155">
+      <Item templateId="368" name="다이아몬드" min="10" max="30" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="30" max="30" probability="1" />
+    </ItemBag>	
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="30" max="30" probability="1" />
+    </ItemBag>	
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="30" max="30" probability="1" />
+    </ItemBag>	
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="30" max="30" probability="1" />
+    </ItemBag>	
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="30" max="30" probability="1" />
+    </ItemBag>	
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="2" max="2" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="2" max="2" probability="1" />
+    </ItemBag>
+  </Compensation>
+  
+  <Compensation npcTemplateId="885058" npcName="22층의 보물상자">
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="60" max="60" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="60" max="60" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="60" max="60" probability="1" />
+    </ItemBag>
+    <ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="60" max="60" probability="1" />
+    </ItemBag>
+	<ItemBag id="1" bagName="최상급 강화석" probability="1">
+      <Item templateId="94110" name="강화석 10단계" min="60" max="60" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="2" bagName="시즌 토큰(균등분배)" probability="1">
+      <Item templateId="97712" name="폭군의 혈석" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="4" bagName="보석" probability="1">
+      <Item templateId="364" name="자수정" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="5" bagName="보석" probability="1">
+      <Item templateId="366" name="루비" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="6" bagName="보석" probability="1">
+      <Item templateId="368" name="에메랄드" min="1" max="3" probability="1" />
+    </ItemBag>
+    <ItemBag id="7" bagName="보석" probability="0.255">
+      <Item templateId="368" name="다이아몬드" min="10" max="30" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="8" bagName="속옷 상자 교환 토큰" probability="1">
+      <Item templateId="566" name="오르피우스의 메달" min="40" max="40" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="3" max="3" probability="1" />
+    </ItemBag>
+	<ItemBag id="9" bagName="최상급 완태고" probability="1">
+      <Item templateId="910" name="완전한 태고의 재봉인 주문서 10단계" min="3" max="3" probability="1" />
+    </ItemBag>
+  </Compensation>
+</ECompensationData>

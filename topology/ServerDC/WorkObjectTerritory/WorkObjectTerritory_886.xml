@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkObjectTerritory huntingZoneId="886">
+	<WorkObject desc="5층 거울" templateId="104" type="quest" spawnNum="1" pos="2049.2358,-131329.7813,-8670.3164" dir="48" respawnTimeMin="0" respawnTimeMax="0"/>
+	<WorkObject desc="5층 거울" templateId="104" type="quest" spawnNum="1" pos="3450.2471,-129950.6563,-8670.3164" dir="223" respawnTimeMin="0" respawnTimeMax="0"/>
+</WorkObjectTerritory>
