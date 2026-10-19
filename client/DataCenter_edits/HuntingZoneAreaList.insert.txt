@@ -1,0 +1,17 @@
+
+    <Continent id="9885">
+        <Area id="885" name="IllusionTower_SD_P" desc="인던_환영의 탑">
+            <HuntingZoneList>
+                <HuntingZone id="885" name="인던_환영의 탑" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+
+    <Continent id="9886">
+        <Area id="886" name="IllusionTower_SD_P" desc="인던_환영의 탑(16층)">
+            <HuntingZoneList>
+                <HuntingZone id="886" name="인던_환영의 탑(16층)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+
