@@ -1,0 +1,51 @@
+
+    <Continent id="9885">
+        <EffectList>
+            <Effect name="FX_J_Hotfix_180205.PS.F_5235_PS" />
+            <Effect name="FX_F.PS.F_5234_PS" />
+            <Effect name="FX_E.PS.E_4227_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5236_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5237_PS" />
+            <Effect name="FX_E.PS.E_4229_PS" />
+            <Effect name="FX_F.PS.F_5239_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5240_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5241_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5254_PS" />
+            <Effect name="FX_E.PS.E_4236_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4237_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4242_PS" />
+            <Effect name="FX_E.PS.E_4233_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4234_PS" />
+            <Effect name="FX_E.PS.E_4235_PS" />
+            <Effect name="FX_E.PS.E_4225_PS" />
+            <Effect name="FX_E.PS.E_4226_PS" />
+            <Effect name="FX_E.PS.E_4230_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4249_PS" />
+        </EffectList>
+    </Continent>
+
+    <Continent id="9886">
+        <EffectList>
+            <Effect name="FX_J_Hotfix_180205.PS.F_5235_PS" />
+            <Effect name="FX_F.PS.F_5234_PS" />
+            <Effect name="FX_E.PS.E_4227_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5236_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5237_PS" />
+            <Effect name="FX_E.PS.E_4229_PS" />
+            <Effect name="FX_F.PS.F_5239_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5240_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5241_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.F_5254_PS" />
+            <Effect name="FX_E.PS.E_4236_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4237_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4242_PS" />
+            <Effect name="FX_E.PS.E_4233_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4234_PS" />
+            <Effect name="FX_E.PS.E_4235_PS" />
+            <Effect name="FX_E.PS.E_4225_PS" />
+            <Effect name="FX_E.PS.E_4226_PS" />
+            <Effect name="FX_E.PS.E_4230_PS" />
+            <Effect name="FX_J_Hotfix_180205.PS.E_4249_PS" />
+        </EffectList>
+    </Continent>
+

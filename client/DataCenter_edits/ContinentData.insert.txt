@@ -1,0 +1,9 @@
+
+	<Continent id="9885" channelType="dungeon" channelMax="10" isSpecificSpace="1">
+		<HuntingZone id="885" />
+	</Continent>
+
+	<Continent id="9886" channelType="dungeon" channelMax="10" isSpecificSpace="1">
+		<HuntingZone id="886" />
+	</Continent>
+
